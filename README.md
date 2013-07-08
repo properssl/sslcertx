@@ -144,6 +144,6 @@ The modified MariaDB JDBC driver, moved to the package `org.properssl.sslcertx.m
 
 All other code for `sslcertx` is licensed under the [MIT License].
 
-[MITM]: http://en.wikipedia.org/#TODO
+[MITM]: https://en.wikipedia.org/wiki/Man-in-the-middle_attack
 [Proper SSL]: http://properssl.org/
 [MIT License]: LICENSE
