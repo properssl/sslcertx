@@ -1,0 +1,8 @@
+.DS_Store
+.cache
+.classpath
+.externalToolBuilders/
+.project
+.settings/
+target/
+~/
